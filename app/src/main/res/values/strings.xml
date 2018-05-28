@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Movie Collections</string>
+
+    <string name="hint_title_required">Movie Title (Required)</string>
+    <string name="hint_year">Year</string>
+    <string name="hint_director">Director</string>
+    <string name="hint_genre">Genre</string>
+    <string name="hint_rating">Rating 1&#8211;5</string> <!--(–, &#8211;)-->
+
+    <string name="label_title">Title:</string>
+    <string name="label_year">Year:</string>
+    <string name="label_director">Director:</string>
+    <string name="label_genre">Genre:</string>
+    <string name="label_rating">Rating:</string>
+
+    <string name="menu_item_edit">Edit</string>
+    <string name="menu_item_delete">Delete</string>
+
+    <string name="invalid_query_uri">Invalid query Uri: </string>
+    <string name="invalid_insert_uri">Invalid insert Uri: </string>
+    <string name="invalid_update_uri">Invalid update Uri: </string>
+    <string name="invalid_delete_uri">Invalid delete Uri: </string>
+    <string name="insert_failed">Insert failed:</string>
+
+    <string name="confirm_title">Are You Sure?</string>
+    <string name="confirm_message">This will permanently delete the movie.</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_delete">Delete</string>
+
+    <string name="movie_added">The movie added successfully</string>
+    <string name="movie_not_added">The move was not added due to an error</string>
+    <string name="movie_updated">The movie was updated</string>
+    <string name="movie_not_updated">The movie was not updated due to an error</string>
+
+</resources>
